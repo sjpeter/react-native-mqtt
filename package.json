@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "pili-rtc-web": "^2.2.5"
+  },
+  "name": "react-native-mqtt-new",
+  "version": "0.1.0",
+  "description": "react-native mqtt client module",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjpeter/react-native-mqtt.git"
+  },
+  "author": "sjpeter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjpeter/react-native-mqtt/issues"
+  },
+  "homepage": "https://github.com/sjpeter/react-native-mqtt#readme"
+}
