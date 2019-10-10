@@ -12,7 +12,9 @@
 
 ## Warning
 This library in progress developing, api may change, SSL/TLS non verify;
-Thanks @tuanpm @Hawking Network;
+
+## Thanks
+@tuanpm @Hawking Network
 
 ## Getting started
 
